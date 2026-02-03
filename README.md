@@ -1,3 +1,4 @@
+
 # Simulador de Investimento em Fundos Imobiliários (FII)
 
 ## 📌 Descrição do Projeto
@@ -5,11 +6,6 @@ Este projeto consiste no desenvolvimento de uma planilha em Excel para simulaç�
 
 ## 🎯 Objetivo
 Criar uma ferramenta simples e automatizada que auxilie o investidor na visualização de cenários de investimento, apoiando a tomada de decisão financeira.
-
-## 🛠️ Ferramentas Utilizadas
-- Microsoft Excel
-- GitHub
-- Markdown
 
 ## 📊 Funcionamento da Planilha
 O usuário informa:
@@ -21,10 +17,8 @@ A planilha calcula automaticamente:
 - Valor total investido
 - Patrimônio acumulado ao final do período
 
-## 📁 Estrutura do Repositório
-- `SIMULADOR DE FII.xlsx`
-- `README.md`
-
 ## 🚀 Considerações Finais
 Este projeto foi desenvolvido como parte do desafio prático do curso **Excel com Inteligência Artificial – DIO Santander**, consolidando o aprendizado em cálculos financeiros, automação em Excel e documentação técnica.
+
+[SIMULADOR DE FII.xlsx](https://github.com/user-attachments/files/25043942/SIMULADOR.DE.FII.xlsx)
 
